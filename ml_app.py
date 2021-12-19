@@ -12,16 +12,16 @@ attrib_info = """
     - Sex 1. Male, 2.Female
     - Polyuria 1.Yes, 2.No.
     - Polydipsia 1.Yes, 2.No.
-    - sudden weight loss 1.Yes, 2.No.
-    - weakness 1.Yes, 2.No.
+    - Sudden weight loss 1.Yes, 2.No.
+    - Weakness 1.Yes, 2.No.
     - Polyphagia 1.Yes, 2.No.
     - Genital thrush 1.Yes, 2.No.
-    - visual blurring 1.Yes, 2.No.
+    - Visual blurring 1.Yes, 2.No.
     - Itching 1.Yes, 2.No.
     - Irritability 1.Yes, 2.No.
-    - delayed healing 1.Yes, 2.No.
-    - partial paresis 1.Yes, 2.No.
-    - muscle stiffness 1.Yes, 2.No.
+    - Delayed healing 1.Yes, 2.No.
+    - Partial paresis 1.Yes, 2.No.
+    - Muscle stiffness 1.Yes, 2.No.
     - Alopecia 1.Yes, 2.No.
     - Obesity 1.Yes, 2.No.
     - Class 1.Positive, 2.Negative.
