@@ -3,7 +3,7 @@ import joblib
 import os
 import numpy as np
 import plotly.graph_objects as go
-
+import sklearn
 
 attrib_info = """
 #### Attribute Information:
