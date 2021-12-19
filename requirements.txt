@@ -1,0 +1,8 @@
+joblib==1.0.1
+matplotlib==3.4.2
+numpy==1.21.4
+pandas==1.3.0
+plotly==4.10.0
+seaborn==0.11.1
+streamlit==1.3.0
+~umpy==1.18.1
